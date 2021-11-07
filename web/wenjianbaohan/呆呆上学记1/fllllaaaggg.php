@@ -1,0 +1,1 @@
+NYSEC{f12_1s_go00Od_t0o1_@nd_funnny1!@#}

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+message
+| index.php
+| robots.txt
+| spider.jpg
+|
++--.idea
+|   | message.iml
+|   | misc.xml
+|   | modules.xml
+|   | workspace.xml
+|   |
+|   +--inspectionProfiles
++--swap_document
+      flllag.txt
